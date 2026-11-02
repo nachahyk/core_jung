@@ -18,4 +18,5 @@ export 'src/widgets/app_loading_indicator.dart';
 export 'src/widgets/app_option_sheet.dart';
 export 'src/widgets/coach_mark_overlay.dart';
 export 'src/widgets/mini_app_page_header.dart';
+export 'src/widgets/mini_app_splash.dart';
 export 'src/widgets/mini_app_theme_switcher.dart';
